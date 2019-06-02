@@ -1,5 +1,5 @@
 # Coding-Journey-Steps
-## 9 Steps to Coding
+
 1. Observe & read the problem
 2. Frame an example
 3. Apply brute-force to get naive solution
